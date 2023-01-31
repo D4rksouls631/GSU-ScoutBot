@@ -1,0 +1,13 @@
+Sensor 1/Right ports:
+trigPin=51;
+echoPin=53;
+
+Sensor 2/Center ports:
+trigPin=47;
+echoPin=49;
+
+Sensor 3/Left ports:
+trigPin=43;
+echoPin=45;
+
+Gyroscope:
